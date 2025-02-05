@@ -18,7 +18,7 @@ npm -v
 ### Steps to Run
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/wordle-clone.git
+   git clone https://github.com/goutam1234567890/wordle-clone
    ```
 2. Navigate to the project folder:
    ```sh
